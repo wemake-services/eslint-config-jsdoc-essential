@@ -37,10 +37,11 @@ This code is considered valid (and beautiful):
 ```js
 /**
 * Sums two numbers.
+* This is just an example.
 *
-* @param a - first number.
-* @param b - second number.
-* @returns sum of the numbers, obviously.
+* @param a - First number.
+* @param b - Second number.
+* @returns Sum of the numbers, obviously.
 */
 function sum (a, b) {
   return proxyRequest(value)
