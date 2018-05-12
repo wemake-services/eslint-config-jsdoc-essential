@@ -36,15 +36,15 @@ This code is considered valid (and beautiful):
 
 ```js
 /**
-* Sums two numbers.
-* This is just an example.
-*
-* @param a - First number.
-* @param b - Second number.
-* @returns Sum of the numbers, obviously.
-*/
-function sum (a, b) {
-  return proxyRequest(value)
+ * Imaginary function to take same slices from imaginary pizza.
+ * This function is created, because we love pizza.
+ *
+ * @param pizza - {Array} List of slices.
+ * @param numberOfSlices - Number of slices to take away.
+ * @returns {Array} What is left of our pizza.
+ */
+function takeSlices (pizza, numberOfSlices) {
+  return pizza.splice(0, numberOfSlices)
 }
 ```
 
