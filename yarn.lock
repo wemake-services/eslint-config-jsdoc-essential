@@ -695,9 +695,9 @@ combined-stream@1.0.6, combined-stream@~1.0.5:
   dependencies:
     delayed-stream "~1.0.0"
 
-comment-parser@^0.4.2:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/comment-parser/-/comment-parser-0.4.2.tgz#fa5a3f78013070114866dc7b8e9cf317a9635f74"
+comment-parser@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/comment-parser/-/comment-parser-0.5.0.tgz#e833701804308eedef96c0b5029375b07f4eba1e"
   dependencies:
     readable-stream "^2.0.4"
 
@@ -998,12 +998,12 @@ eslint-plugin-jest@^21.15.1:
   resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-21.25.0.tgz#b798c6616a2ad444ea25636d877ca3d3bc881348"
 
 eslint-plugin-jsdoc@^3.6.3:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jsdoc/-/eslint-plugin-jsdoc-3.8.0.tgz#6c5f6618b304fbfe28ec6898aff8fdeb3965aef8"
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jsdoc/-/eslint-plugin-jsdoc-3.9.0.tgz#29e2c4fdf340e0bdf44613d3725e06f633db58cf"
   dependencies:
-    comment-parser "^0.4.2"
+    comment-parser "^0.5.0"
     jsdoctypeparser "^2.0.0-alpha-8"
-    lodash "^4.17.4"
+    lodash "^4.17.11"
 
 eslint-plugin-node@^7.0.1:
   version "7.0.1"
@@ -2417,6 +2417,10 @@ lodash.sortby@^4.7.0:
 lodash@^4.13.1, lodash@^4.14.0, lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5:
   version "4.17.10"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+
+lodash@^4.17.11:
+  version "4.17.11"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
 longest@^1.0.1:
   version "1.0.1"
