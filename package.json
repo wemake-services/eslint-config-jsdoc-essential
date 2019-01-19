@@ -20,7 +20,7 @@
     "linting"
   ],
   "dependencies": {
-    "eslint-plugin-jsdoc": "^3.6.3"
+    "eslint-plugin-jsdoc": "^4.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
