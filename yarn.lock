@@ -642,11 +642,9 @@ commander@~2.17.1:
   version "2.17.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
 
-comment-parser@^0.5.1:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/comment-parser/-/comment-parser-0.5.1.tgz#041fb38d943ba99b700aff44c13958681eb89adc"
-  dependencies:
-    readable-stream "^2.0.4"
+comment-parser@^0.5.4:
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/comment-parser/-/comment-parser-0.5.4.tgz#089840b9cccacad2b769b231ed43081d501b9487"
 
 compare-versions@^3.1.0:
   version "3.1.0"
@@ -937,10 +935,10 @@ eslint-plugin-jest@^22.0.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-22.3.0.tgz#a10f10dedfc92def774ec9bb5bfbd2fb8e1c96d2"
 
 eslint-plugin-jsdoc@^4.0.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jsdoc/-/eslint-plugin-jsdoc-4.1.0.tgz#ed1100a4bef9ab80b78cff9c1512fd9538fea5e8"
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jsdoc/-/eslint-plugin-jsdoc-4.1.1.tgz#54f33bdc878b21fd43f4d82c92970bb9b062f18d"
   dependencies:
-    comment-parser "^0.5.1"
+    comment-parser "^0.5.4"
     jsdoctypeparser "^2.0.0-alpha-8"
     lodash "^4.17.11"
 
@@ -2916,7 +2914,7 @@ read-pkg@^2.0.0:
     normalize-package-data "^2.3.2"
     path-type "^2.0.0"
 
-readable-stream@^2.0.1, readable-stream@^2.0.4, readable-stream@^2.0.6:
+readable-stream@^2.0.1, readable-stream@^2.0.6:
   version "2.3.6"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.6.tgz#b11c27d88b8ff1fbe070643cf94b0c79ae1b0aaf"
   dependencies:
